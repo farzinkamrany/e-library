@@ -29,8 +29,8 @@
 
 ## 🚀 نصب و اجرا
 
-1. پروژه را کلون کنید:
-
 ```bash
-git clone https://github.com/username/book-library-app.git
+git clone https://github.com/farzinkamrany/e-library.git
 cd book-library-app
+npm install
+npm start
